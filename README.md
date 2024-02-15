@@ -6,3 +6,4 @@ University student at Central Michigan University</h1>
 - [Transaction Lab](https://github.com/nick-s11/Transaction-Simulator-lab)</b>
   -
 
+[linkedin]: www.linkedin.com/in/nicholas-smith-31a95127b
