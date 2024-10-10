@@ -6,7 +6,7 @@ Student at Central Michigan University</h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Transaction Lab](https://github.com/nick-s11/Transaction-Simulator-lab)</b>
-- [To-Do list](https://github.com/nick-s11/Transaction-Simulator-lab)</b>
+- [To-Do list](https://github.com/nick-s11/To-Do)</b>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] www.linkedin.com/in/nicholas-smith-31a95127b) 
