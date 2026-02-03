@@ -2,7 +2,7 @@
 Student at Central Michigan University</h1>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on any projects<br>🤝 I’m looking for help with large language models<br>🌱 I’m currently learning how to integrate back-end with front-end<br>💬 Ask me anything<br>⚡ Fun fact I like to build and code with micro-computers
+👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning Python scripting to be called with PowerShell<br>💬 Ask me anything<br>⚡ Fun fact I like to build and code with micro-computers
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Transaction Lab](https://github.com/nick-s11/Transaction-Simulator-lab)</b>
