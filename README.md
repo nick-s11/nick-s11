@@ -5,8 +5,11 @@ Student at Central Michigan University</h1>
 👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning Python scripting to be called with PowerShell<br>💬 Ask me anything<br>⚡ Fun fact I like to build and code with micro-computers
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [Hirelytics](https://github.com/edombelayneh/Hirelytics)</b>
+- [Workout Tracker API](https://github.com/nick-s11/real-time-workout)</b>
 - [Transaction Lab](https://github.com/nick-s11/Transaction-Simulator-lab)</b>
 - [To-Do list](https://github.com/nick-s11/To-Do)</b>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] www.linkedin.com/in/nicholas-smith-31a95127b) 
